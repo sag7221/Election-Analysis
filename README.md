@@ -40,7 +40,7 @@ The results for counties is as follows:
     - Denver county, 306,055 votes and vote percentage 82.8%
     - Arapahoe, 24,801 votes and vote percentage 6.7%
 
-The county with the highest turnout is Denver, 82.8%
-
+- The county with highest turnout is:
+  - Denver with 82.8% of votes and 306,055 number of votes
 
 
