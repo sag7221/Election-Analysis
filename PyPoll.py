@@ -33,7 +33,7 @@ print("total_number_of_votes: ", total_vote_count)
 print("total_candidates_list: ", total_candidates_list)
 print("candidate_votes_dictionary: ", candidate_votes_dictionary)
 
-file_to_save = os.path.join("analysis", "election_analysis.txt")
+file_to_save = os.path.join("analysis", "election_analysis_candidates.txt")
 
 election_summary = (
     f"\n Election Results\n"
